@@ -1,0 +1,45 @@
+
+
+.Title{
+    color: rgb(0, 0, 0);
+    background-color: aqua;
+    text-align: center;
+    
+}
+
+.endLine{
+    color: black;
+    background-color: aqua;
+    text-align: center;
+    height: 60%;
+    width: 100%;
+    
+}
+
+.Feedback{
+    width: 90%;
+  
+    height: 100px;
+}
+
+.sub{
+    height: 40px;
+    width: 200px;
+}
+.S1 ,.S2 , .S3 , .S4 ,.S5{
+    color: brown;
+    height: 20px;
+    width: 50px;
+    
+}
+
+
+#id1551{
+    color: brown;
+}
+.Box{
+    background-color: aquamarine;
+}
+
+
+    
